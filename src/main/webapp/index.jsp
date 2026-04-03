@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MCA Department</title>
-
   <style>
     body {
       margin: 0;
@@ -15,7 +14,6 @@
       align-items: center;
       height: 100vh;
     }
-
     .card {
       background: white;
       width: 60%;
@@ -61,17 +59,12 @@
     }
   </style>
 </head>
-
 <body>
   <div class="card">
-
     <h1>Welcome to Department of MCA (SSIT)</h1>
-
     <img class="logo"
       src="https://ssahe.edu.in/ssit/img/sri-siddhartha-institute-of-technology-ssit-logo.png" />
-
-    <h1 class="highlight">My job is done with Jenkins & GitHub 🚀</h1>
-
+    <h1 class="highlight">My job is done with Jenkins & GitHub</h1> 
     <h2>Welcome to SSIT on behalf of MCA Department</h2>
  </div>
 </body>
