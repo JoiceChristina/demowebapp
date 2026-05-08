@@ -64,7 +64,7 @@
     <h1>Welcome to Department of MCA (SSIT)</h1>
     <img class="logo"
       src="https://ssahe.edu.in/ssit/img/sri-siddhartha-institute-of-technology-ssit-logo.png" />
-    <h1 class="highlight">My job is done with Jenkins & GitHub</h1> 
+    <h1 class="highlight">One Click Deployment Using Full-Stack DevOps Tools</h1> 
     <h2>Welcome to SSIT on behalf of MCA Department</h2>
  </div>
 </body>
