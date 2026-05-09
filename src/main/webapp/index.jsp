@@ -61,7 +61,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>Welcome to Department of MCA</h1>
+    <h1>Welcome to Sri Siddhartha Institue Of Technology</h1>
     <img class="logo"
       src="https://ssahe.edu.in/ssit/img/sri-siddhartha-institute-of-technology-ssit-logo.png" />
     <h1 class="highlight">One Click Deployment Using Full-Stack DevOps Tools</h1> 
