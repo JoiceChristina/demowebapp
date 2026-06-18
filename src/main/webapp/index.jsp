@@ -65,7 +65,7 @@
     <img class="logo"
       src="https://ssahe.edu.in/ssit/img/sri-siddhartha-institute-of-technology-ssit-logo.png" />
     <h1 class="highlight">One Click Deployment Using Full-Stack DevOps Tools</h1> 
-    <h2>Welcome to SSIT on behalf of MCA Department</h2>
+    <h2>Department Of MCA Welcomes You</h2>
  </div>
 </body>
 </html>
