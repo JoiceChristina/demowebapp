@@ -72,10 +72,6 @@ p{
 
 <h1>Welcome to University of Mysore</h1>
 
-<!-- University Logo -->
-<img class="logo"
-src="https://upload.wikimedia.org/wikipedia/en/3/32/University_of_Mysore_Logo.png"
-alt="University of Mysore Logo">
 
 <h1 class="highlight">
 Department of MCA
