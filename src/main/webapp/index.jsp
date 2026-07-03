@@ -105,11 +105,6 @@ research, and industry-ready skills.
 One Click Deployment Using Full-Stack DevOps Tools
 </p>
 
-<!-- Campus Image -->
-<img class="logo"
-src="https://www.google.com/imgres?q=mysore%20university%20logo&imgurl=https%3A%2F%2Fwww.uni-mysore.in%2Fassets%2Fimages%2Funimysore.png&imgrefurl=https%3A%2F%2Fwww.uni-mysore.in%2Fthe-university-emblem&docid=aw9nRW-jd9sVMM&tbnid=xoZWVNWNcMU0mM&vet=12ahUKEwil5fP8jbaVAxVvyDgGHYMXNIcQnPAOegUIugEQAA..i&w=463&h=150&hcb=2&ved=2ahUKEwil5fP8jbaVAxVvyDgGHYMXNIcQnPAOegUIugEQAA"
-alt="University of Mysore Logo">
-
 </div>
 
 </body>
