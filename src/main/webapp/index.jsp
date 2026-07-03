@@ -1,71 +1,116 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Department Of MCA</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(to right, #aa9094, #000000);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    .card {
-      background: white;
-      width: 60%;
-      max-width: 700px;
-      padding: 30px;
-      border-radius: 15px;
-      text-align: center;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-    }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    h1 {
-      font-size: 28px;
-      margin-bottom: 15px;
-      color: #333;
-    }
+<title>Department of MCA - University of Mysore</title>
 
-    h2 {
-      font-size: 20px;
-      color: #555;
-      margin-top: 10px;
-    }
+<style>
 
-    p {
-      color: #777;
-      margin-top: 5px;
-    }
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:linear-gradient(to right,#4b79a1,#283e51);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
 
-    img.logo {
-      width: 180px;
-      margin: 20px auto;
-      display: block;
-    }
+.card{
+    background:#ffffff;
+    width:70%;
+    max-width:800px;
+    padding:30px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0 10px 25px rgba(0,0,0,0.3);
+}
 
-    img.banner {
-      width: 100%;
-      border-radius: 10px;
-      margin-top: 20px;
-    }
+h1{
+    font-size:30px;
+    color:#333;
+    margin-bottom:10px;
+}
 
-    .highlight {
-      color: #2c7be5;
-      font-weight: bold;
-    }
-  </style>
+h2{
+    color:#555;
+    margin-top:10px;
+}
+
+p{
+    color:#666;
+    line-height:1.7;
+    text-align:justify;
+}
+
+.logo{
+    width:170px;
+    margin:20px auto;
+    display:block;
+}
+
+.banner{
+    width:100%;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+.highlight{
+    color:#0d6efd;
+    font-weight:bold;
+}
+
+</style>
+
 </head>
+
 <body>
-  <div class="card">
-    <h1>Welcome to Sri Siddhartha Institute Of Technology</h1>
-    <img class="logo"
-      src="https://ssahe.edu.in/ssit/img/sri-siddhartha-institute-of-technology-ssit-logo.png" />
-    <h1 class="highlight">One Click Deployment Using Full-Stack DevOps Tools</h1> 
-    <h2>Department Of MCA Welcomes You</h2>
- </div>
+
+<div class="card">
+
+<h1>Welcome to University of Mysore</h1>
+
+<!-- University Logo -->
+<img class="logo"
+src="https://upload.wikimedia.org/wikipedia/en/3/32/University_of_Mysore_Logo.png"
+alt="University of Mysore Logo">
+
+<h1 class="highlight">
+Department of MCA
+</h1>
+
+<h2>Master of Computer Applications</h2>
+
+<p>
+The <b>University of Mysore</b>, established in <b>1916</b>, is one of the
+oldest universities in India and the first university in Karnataka.
+The university is located at the beautiful
+<b>Manasagangotri Campus, Mysuru</b>. It offers quality education,
+research opportunities, and modern infrastructure for students.
+</p>
+
+<p>
+The <b>Department of MCA</b> prepares students with strong knowledge in
+Programming, Data Structures, Database Management Systems,
+Artificial Intelligence, Cloud Computing, Web Technologies,
+Software Engineering, and Machine Learning.
+The department focuses on practical learning, innovation,
+research, and industry-ready skills.
+</p>
+
+<p>
+<span class="highlight">Project Title:</span><br>
+One Click Deployment Using Full-Stack DevOps Tools
+</p>
+
+<!-- Campus Image -->
+<img class="banner"
+src="https://upload.wikimedia.org/wikipedia/commons/3/39/Crawford_Hall%2C_University_of_Mysore.jpg"
+alt="University of Mysore Campus">
+
+</div>
+
 </body>
 </html>
