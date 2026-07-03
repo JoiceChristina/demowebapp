@@ -107,7 +107,7 @@ One Click Deployment Using Full-Stack DevOps Tools
 
 <!-- Campus Image -->
 <img class="logo"
-src="https://wadhwanifoundation.org/wp-content/uploads/elementor/thumbs/University-of-Mysore-Logo-q0zjlwmqmb3h08djlwmxkrx3ec1n8mxtjcb8zl9q1g.png"
+src="C:\MCADev\images.jpg"
 alt="University of Mysore Logo">
 
 </div>
